@@ -1,4 +1,8 @@
-## Hello, this is Swd146296!
+Hello and this is Swd146296. You can also refer to me as _何武契_ or _He Wuqi_.
+
+Swd146296 is a competitive programmer.
+
+They has not much computer engineering experience yet. Give them some time to explore plz.
 
 <!--
 **Swd146296/Swd146296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
