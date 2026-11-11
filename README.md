@@ -1,4 +1,4 @@
-Hello and this is Swd146296. You can also refer to me as _何武契_ or _He Wuqi_.
+Hello and this is Swd146296. You can also refer to me as _何武契_(_He Wuqi_) or _游迩伞舞_(_You Ersanwu_).
 
 Swd146296 is a competitive programmer.
 
